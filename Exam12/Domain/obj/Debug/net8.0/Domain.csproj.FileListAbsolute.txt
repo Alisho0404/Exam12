@@ -1,0 +1,14 @@
+C:\Users\Alisho\Desktop\.Net Core\Week12\Exam12\Exam12\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Alisho\Desktop\.Net Core\Week12\Exam12\Exam12\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+C:\Users\Alisho\Desktop\.Net Core\Week12\Exam12\Exam12\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Alisho\Desktop\.Net Core\Week12\Exam12\Exam12\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Alisho\Desktop\.Net Core\Week12\Exam12\Exam12\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Alisho\Desktop\.Net Core\Week12\Exam12\Exam12\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alisho\Desktop\.Net Core\Week12\Exam12\Exam12\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Alisho\Desktop\.Net Core\Week12\Exam12\Exam12\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Alisho\Desktop\.Net Core\Week12\Exam12\Exam12\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Alisho\Desktop\.Net Core\Week12\Exam12\Exam12\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Alisho\Desktop\.Net Core\Week12\Exam12\Exam12\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Alisho\Desktop\.Net Core\Week12\Exam12\Exam12\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Alisho\Desktop\.Net Core\Week12\Exam12\Exam12\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+C:\Users\Alisho\Desktop\.Net Core\Week12\Exam12\Exam12\Domain\obj\Debug\net8.0\ref\Domain.dll
